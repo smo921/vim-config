@@ -511,6 +511,7 @@ let g:tagbar_foldlevel = 2
 
 "NERDTree
 map <silent> <Leader>e :NERDTree<CR>
+map <silent> <Leader>n :NERDTreeTabsToggle<CR>
 let NERDTreeWinPos='right'
 let NERDTreeChDirMode='2'
 let NERDTreeIgnore=['\.vim$', '\~$', '\.pyo$', '\.pyc$', '\.svn[\//]$', '\.swp$']
