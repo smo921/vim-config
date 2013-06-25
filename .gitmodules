@@ -37,3 +37,6 @@
 [submodule "bundle/vim-nerdtree-tabs"]
 	path = bundle/vim-nerdtree-tabs
 	url = git://github.com/jistr/vim-nerdtree-tabs.git
+[submodule "bundle/vitality"]
+	path = bundle/vitality
+	url = git://github.com/sjl/vitality.vim.git
