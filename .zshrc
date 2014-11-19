@@ -64,5 +64,6 @@ alias -g ki="kitchen"
 
 export EDITOR='vim'
 export PATH="$HOME/.rbenv/bin:$PATH"
+export TERM="xterm-256color"
 eval "$(rbenv init -)"
 source $HOME/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
