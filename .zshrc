@@ -65,4 +65,4 @@ alias -g ki="kitchen"
 export EDITOR='vim'
 export PATH="$HOME/.rbenv/bin:$PATH"
 eval "$(rbenv init -)"
-source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source $HOME/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
