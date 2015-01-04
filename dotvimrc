@@ -19,7 +19,7 @@ if &term == "xterm"
     let &term = "xtermc"
 
     set rs
-    set t_ti=^[7^[[r^[[?47h t_te=^[[?47l^[8
+    set t_ti=7[r[?47h t_te=[?47l8
 endif
 
 let t_Co=256
