@@ -40,9 +40,6 @@
 [submodule "bundle/vitality"]
 	path = bundle/vitality
 	url = git://github.com/sjl/vitality.vim.git
-[submodule "bundle/vim-json"]
-	path = bundle/vim-json
-	url = git://github.com/jakar/vim-json.git
 [submodule "bundle/Dockerfile"]
 	path = bundle/Dockerfile
 	url = https://github.com/ekalinin/Dockerfile.vim
