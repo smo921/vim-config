@@ -30,16 +30,16 @@
 	url = https://github.com/hallison/vim-markdown.git
 [submodule "bundle/vim-dispatch"]
 	path = bundle/vim-dispatch
-	url = git://github.com/tpope/vim-dispatch.git
+	url = https://github.com/tpope/vim-dispatch.git
 [submodule "bundle/minibufexpl"]
 	path = bundle/minibufexpl
-	url = git://github.com/fholgado/minibufexpl.vim.git
+	url = https://github.com/fholgado/minibufexpl.vim.git
 [submodule "bundle/vim-nerdtree-tabs"]
 	path = bundle/vim-nerdtree-tabs
-	url = git://github.com/jistr/vim-nerdtree-tabs.git
+	url = https://github.com/jistr/vim-nerdtree-tabs.git
 [submodule "bundle/vitality"]
 	path = bundle/vitality
-	url = git://github.com/sjl/vitality.vim.git
+	url = https://github.com/sjl/vitality.vim.git
 [submodule "bundle/Dockerfile"]
 	path = bundle/Dockerfile
 	url = https://github.com/ekalinin/Dockerfile.vim
